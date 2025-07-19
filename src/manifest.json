@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "Safeway Coupon Clicker",
+  "version": "0.0.1",
+  "description": "Click all Safeway coupons.",
+  
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  
+  "permissions": [
+    "debugger",
+    "activeTab",
+    "scripting"
+  ],
+  
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Safeway Coupon Clipper"
+  },
+
+  "host_permissions": [
+    "*://www.safeway.com/foru/coupons-deals*"
+  ]
+}
