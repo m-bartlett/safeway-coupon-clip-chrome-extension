@@ -42,7 +42,7 @@ The extension will only function on the webpage <https://www.safeway.com/foru/co
 
 1. Navigate to that page.
 2. Activate this extension's popup window from your browser's toolbar or extensions menu.
-3. The pop should have a "Clip coupons" button, click that to activate the clipping process.
+3. The popup window should have a "Clip coupons" button. Click that to activate the clipping process.
    It will first load all coupons and then proceed to scroll one into view, click it, and repeat until there are no more clippable coupons.
 
 >[!IMPORTANT]
