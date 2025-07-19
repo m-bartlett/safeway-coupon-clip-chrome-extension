@@ -22,6 +22,6 @@
   },
 
   "host_permissions": [
-    "*://www.safeway.com/foru/coupons-deals*"
+    "https://www.safeway.com/foru/coupons-deals*"
   ]
 }
