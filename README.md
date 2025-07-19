@@ -68,7 +68,7 @@ The extension will only function on the webpage <https://www.safeway.com/foru/co
 ## How it works
 
 Until recently, there were many solutions for automatically clipping these coupons.
-I previously used a basic Javascript snippet that basically performs the same logic as this extension.
+I previously used a Javascript snippet that basically performs the same logic as this extension.
 However, the Safeway website recently had changes so that only "trusted" click events from the browser seem to activate the click events on the "clip" buttons.
 This extension satisfies that requirement by using "Debug mode". You will see a banner that this extension has debug mode activated while it's clipping coupons.
 While clipping, the extension is performing this loop:
@@ -80,5 +80,5 @@ While clipping, the extension is performing this loop:
   * Wait a random amount of time of about 1 second to prevent triggering the popup error.
 
 Other pure-Javascript based solutions are still not working as of writing.
-I'm not sure if some of the most sophisticated solutions that actually send HTTP requests to the coupon backend are still functioning since I couldn't be configure them.
+I'm not sure if some of the more sophisticated solutions that actually send HTTP requests to the coupon backend are still functioning since I couldn't be configure them.
 This solution is quick and painless for my standards so just sharing in case others get some utility from it as well.
