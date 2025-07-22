@@ -9,14 +9,18 @@ Should work with any chromium-based browser. Untested on other browsers, but fee
 [Demo video of the extension in action](https://github.com/user-attachments/assets/2944d4fb-95d7-4a9e-8943-75cf1c2cae3a)
 
 <br/>
-<br/>
-
 
 ## Install
 
 ### Chrome Web Store
 
-soon™️
+<img align="left" width="40" src="https://fonts.gstatic.com/s/i/productlogos/chrome_store/v7/192px.svg" />
+<table>
+ <td>
+  <a href="https://chromewebstore.google.com/detail/safeway-coupon-clicker/cipnkngmomeggbifncmcmdmglgaaohdl">Install</a>
+ </td>
+</table>
+<br/>
 
 ### Manual
 
