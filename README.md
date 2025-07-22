@@ -84,5 +84,5 @@ While clipping, the extension is performing this loop:
   * Wait a random amount of time of about 1 second to prevent triggering the popup error.
 
 Other pure-Javascript based solutions are still not working as of writing.
-I'm not sure if some of the more sophisticated solutions that actually send HTTP requests to the coupon backend are still functioning since I couldn't be configure them.
+I'm not sure if some of the more sophisticated solutions that actually send HTTP requests to the coupon backend are still functioning since I couldn't be bothered to configure them.
 This solution is quick and painless for my standards so just sharing in case others get some utility from it as well.
